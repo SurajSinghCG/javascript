@@ -12,3 +12,11 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
  let stringNumber = String(someNumber)
  console.log(stringNumber)
  console.log(typeof stringNumber);
+
+ //''''''' OPERATIONS''''''''''
+
+ let value = 3
+ let negValue = -value
+                  
+            
+ 
